@@ -1,2 +1,2 @@
 # Projekt-Kreatywnosci
-opis czegos tam
+projekt kreatywnoćci 2bp
