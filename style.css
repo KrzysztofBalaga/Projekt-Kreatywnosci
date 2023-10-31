@@ -1,0 +1,42 @@
+﻿body {
+    background: #223;
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+    color: #fff;
+}
+
+.header{
+    font-size: 50px;
+    padding: 2%;
+}
+
+#menu {
+    width: 100%;
+    background-color: #232;
+    border-top: 3px solid #121;
+    border-bottom: 3px solid #121;
+    font-size: 22px;
+    color: white;
+    position: sticky;
+    top: 0rem;
+}
+
+.tematy{
+    text-align: center;
+    float: left;
+    width: 10%;
+    padding: 1%;
+}
+
+a.linki{
+    color: #fff;
+    text-decoration: none;
+}
+
+temat1{
+    margin-left: 1%;
+}
+
+.clear{
+    clear: both;
+}
